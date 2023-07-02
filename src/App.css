@@ -1,5 +1,14 @@
 .App {
-  text-align: center;
+  padding: 20px;
+  text-align: left;
+  justify-content: center;
+}
+.selected {
+  background-color: gray;
+}
+
+li {
+  max-width: 200px;
 }
 
 .App-logo {
